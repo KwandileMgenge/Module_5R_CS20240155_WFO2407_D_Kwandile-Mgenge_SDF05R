@@ -13,28 +13,13 @@ By completing this project, you will learn to:
 
 ## Project Overview
 
-### Time Estimate: 2 hours
+## What I Did
 
-## What you Need to Do:
+### Button 1 
+- has a simple background and text color change when hovered over.
 
-1. **Starter Code**: Clone the starter code from GitHub for your project. The HTML structure is provided, and you'll focus on adding styles in the `style.css` file.
+### Button 2 
+- inspired by button number 5 from the curated buttons, it has a top border that expands from left to right and a bottom border that expands from right to left. It also has a color change to the background and text.
 
-    - Starter code can be found here: https://github.com/CodeSpace-Academy/Module_5R_StudentNo_Classcode_Group_Name-Surname_SDF05R
-
-2. **Write your CSS Styles**: Create your animations from scratch. Need a hint of inspiration? You're welcome to go through our curated buttons for inspiration: [View Reference](https://codepen.io/codespace-academy/pen/xxmWrjX). 
-
-3. **Prepare Your Repository**: 
-    - Save all chanes and update your GitHub repository with the final versions of all files.
-    - Include a `README.md` file that outlines the project, your design choices, and any notes on challenges you faced or features you're particularly proud of.
-    - Ensure your repository is set to public so it can be accessed by your code coach.
-
-4. **Submit on LMS**:
-    - Submit the link to your GitHub repository on the LMS under the project tab.
-
-Embark on this CSS journey to transform simple buttons into interactive, animated elements. Let your creativity shine and enjoy the process of bringing static elements to life!
-
-
-## Submission Guidelines
-- Submit the link to your GitHub repository on the LMS under the project tab.
-
-Embark on this CSS journey to transform simple buttons into interactive, animated elements. Let your creativity shine and enjoy the process of bringing static elements to life!
+### Button 3 
+- also inspired by curated button number 10, but instead of the animation filling the button it shrinks till its invisible. When hoverd over the background colors are inverted and the text color is changed.
